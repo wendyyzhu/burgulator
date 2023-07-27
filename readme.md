@@ -1,6 +1,6 @@
 # Burgulator 🍔
 
-First REACT app - customise your burger!
+First REACT app - build your burger!
 
 Check it out here: https://wendyyzhu.github.io/burgulator/
 
