@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burgulator/static/css/main.8ba3c811.css",
+    "main.js": "/burgulator/static/js/main.d5fc9738.js",
+    "index.html": "/burgulator/index.html",
+    "main.8ba3c811.css.map": "/burgulator/static/css/main.8ba3c811.css.map",
+    "main.d5fc9738.js.map": "/burgulator/static/js/main.d5fc9738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba3c811.css",
+    "static/js/main.d5fc9738.js"
+  ]
+}
