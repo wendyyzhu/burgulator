@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.menu .ing-btn {
+    background-color: rgb(211, 119, 208);
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 15px;
+    margin: 2px 2px;
+    color: white;
+}
+
+.menu .ing-btn:hover {
+    background-color: white;
+    color: rgb(211, 119, 208);
+}

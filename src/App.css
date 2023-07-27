@@ -1,0 +1,39 @@
+.show-menu-btn {
+    margin-top: 20px;
+    background: none;
+    color: white;
+}
+
+.show-menu-btn:hover {
+    border: 1px white solid;
+    border-radius: 20px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0 auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    flex-grow: 1;
+}
+
+h2 {
+    color: white;
+}
+
+footer {
+    color: white;
+    font-weight: bold;
+}

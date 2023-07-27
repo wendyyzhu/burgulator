@@ -1,0 +1,69 @@
+.Top.bun {
+    background-color: rgb(227, 174, 104);
+    height: 100px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    z-index: 2;
+}
+
+.Bottom.bun {
+    background-color: rgb(227, 174, 104);
+    height: 60px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    z-index: 2;
+}
+
+.Cheese {
+    background-color: rgb(255, 204, 75);
+    height: 50px;
+    border-radius: 20px;
+    z-index: 2;
+}
+
+.Tomato {
+    background-color: tomato;
+    height: 70px;
+    border-radius: 20px;
+    z-index: 2;
+}
+
+.Lettuce {
+    background-color: rgb(84, 211, 84);
+    height: 70px;
+    border-radius: 20px;
+    z-index: 2;
+}
+
+.Patty {
+    background-color: rgb(114, 94, 72);
+    height: 80px;
+    border-radius: 50px;
+    z-index: 2;
+}
+
+.Onion {
+    background-color: #62242d;
+    height: 60px;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.Pickles {
+    background-color: olive;
+    height: 40px;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.Top.bun:hover, 
+.Bottom.bun:hover, 
+.Cheese:hover, 
+.Tomato:hover, 
+.Lettuce:hover, 
+.Patty:hover, 
+.Onion:hover, 
+.Pickles:hover {
+    border: 2px solid white;
+    box-shadow: 0 0 50px white;
+}
